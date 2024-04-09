@@ -38,8 +38,8 @@ Galip DİLER
 
 ## Special Thanks
 
--Assoc. Prof. Dr. Mustafa Berkan BİÇER for his Microprocessors Course
--Research Assistant A. Abbas ELMAS for his Microprocessors Lab. Course
+- Assoc. Prof. Dr. Mustafa Berkan BİÇER for his Microprocessors Course
+- Research Assistant A. Abbas ELMAS for his Microprocessors Lab. Course
 
  
 
