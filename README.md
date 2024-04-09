@@ -14,7 +14,7 @@
 ## The Procedure
 
   We thought a lot and exchanged ideas to find the game idea. We finally found the type of game that suits us best. We discussed the problems at hand among ourselves, and tried and failed many times in our search 
- for solutions. We solved those 5 tries by creating a counter using LEDs. In this way, we wrote a game code that uses both the output screen and the LED display screen of the assembly language and Emu8086. 
+ for solutions. We solved those 5 tries by creating a counter in the Emulator, and we used LEDs to hold the user's current number input. In this way, we wrote a game code that uses both the output screen and the LED display screen of the assembly language and Emu8086. 
 
 ## How To Play
 
@@ -28,6 +28,18 @@
 ## Built With
 
  - Emu8086 Assembly Language
+
+## Developers
+
+Fatma Nur GENÇDOĞAN
+Alper ERDİNÇ
+Mahmut BUT
+Galip DİLER
+
+## Special Thanks
+
+-Assoc. Prof. Dr. Mustafa Berkan BİÇER for his Microprocessors Course
+-Research Assistant A. Abbas ELMAS for his Microprocessors Lab. Course
 
  
 
