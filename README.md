@@ -2,6 +2,9 @@
 
   LCDP is a game in which you will try to find the correct password of the Money Safe in 3 difficulties.
 
+  It's a password game written in Assembly Language. This project is a Microprocessors Course Project (P4) of these students from Cukurova University for Assoc. Prof. Dr. Mustafa Berkan BİÇER's course: 
+  Mahmut BUT, Galip DİLER, Fatma Nur GENÇDOĞAN, Alper ERDİNÇ
+
 ## Problem Definition
 
   We wanted to make a safe password cracking game. For this, we needed a menu that directs the user, a system that receives a number from the user and recognizes whether this number matches a random password that 
