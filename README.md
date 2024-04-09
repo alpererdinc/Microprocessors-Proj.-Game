@@ -31,10 +31,7 @@
 
 ## Developers
 
-Fatma Nur GENÇDOĞAN
-Alper ERDİNÇ
-Mahmut BUT
-Galip DİLER
+- Fatma Nur GENÇDOĞAN     Alper ERDİNÇ     Mahmut BUT     Galip DİLER
 
 ## Special Thanks
 
